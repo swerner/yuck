@@ -1,5 +1,5 @@
 <launch4jConfig>
-<dontWrapJar>true</dontWrapJar>
+<dontWrapJar>false</dontWrapJar>
 <headerType>0</headerType>
 <jar>testproj.jar</jar>
 <outfile>testproj.exe</outfile>
