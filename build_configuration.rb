@@ -37,7 +37,7 @@ configuration do |c|
 	# A list of individual Java library files to include.
 	# default value: []
 	#
-	#c.java_lib_files = []
+	c.java_lib_files = ['lib/java/jruby-complete.jar']
 
 	# A list of directories for rawr to include . All files in the given directories get bundled up.
 	# default value: ["lib/java"]
