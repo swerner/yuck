@@ -2,7 +2,7 @@
 <dontWrapJar>true</dontWrapJar>
 <headerType>0</headerType>
 <jar>testproj.jar</jar>
-<outfile>package/windows/testproj.exe</outfile>
+<outfile>testproj.exe</outfile>
 <errTitle></errTitle>
 <jarArgs></jarArgs>
 <chdir></chdir>
